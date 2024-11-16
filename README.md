@@ -173,10 +173,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output
-![exp-8](https://github.com/user-attachments/assets/706c1d18-0cca-4761-8b85-c8197edc0667)
-![image](https://github.com/user-attachments/assets/332094c2-73cc-4b48-a3d9-475b7f927c28)
 
+<img src="https://github.com/user-attachments/assets/706c1d18-0cca-4761-8b85-c8197edc0667" width=200>
 
+<img src="https://github.com/user-attachments/assets/332094c2-73cc-4b48-a3d9-475b7f927c28" width=200>
 
 
 ## Result:
