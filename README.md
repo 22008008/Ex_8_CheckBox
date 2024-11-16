@@ -29,8 +29,8 @@ Step 7: Save and run the application.
  ```
 /*
 Program to create an Option Menu
-Developed by: MONIKA RV
-RegisterNumber:  212222220027
+Developed by: REXLIN R
+RegisterNumber:  212222220034
 */
 ```
 
